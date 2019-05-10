@@ -25,5 +25,11 @@ public class SeleniumTest {
 	{
 		System.out.println("New Developed branch by test asian community");
 	}
+	
+	@Test
+	public void demoTest4()
+	{
+		System.out.println("American community took the new develop branch and added this method");
+	}
 
 }
