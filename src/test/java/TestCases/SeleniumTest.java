@@ -19,5 +19,11 @@ public class SeleniumTest {
 		System.out.println("My Changes 11");
 		System.out.println("My Changes 12 GitStuff");
 	}
+	
+	@Test
+	public void demoTest3()
+	{
+		System.out.println("New Developed branch by test asian community");
+	}
 
 }
