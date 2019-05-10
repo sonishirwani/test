@@ -15,6 +15,9 @@ public class SeleniumTest {
 		System.out.println("I am inside DemoTest2");
 		System.out.println("I am testing git repository");
 		System.out.println("Lets see how it works");
+		
+		System.out.println("My Changes 11");
+		System.out.println("My Changes 12 GitStuff");
 	}
 
 }
