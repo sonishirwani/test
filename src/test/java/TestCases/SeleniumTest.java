@@ -13,6 +13,8 @@ public class SeleniumTest {
 	public void demoTest2()
 	{
 		System.out.println("I am inside DemoTest2");
+		System.out.println("I am testing git repository");
+		System.out.println("Lets see how it works");
 	}
 
 }
